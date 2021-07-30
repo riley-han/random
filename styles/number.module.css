@@ -10,7 +10,9 @@
 }
 
 .number {
-color: rgb(21, 108, 240)
+color: rgb(21, 108, 240);
+text-decoration: underline;
+
 }
 
 .button{
